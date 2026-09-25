@@ -1,0 +1,6 @@
+{
+  "name": "Aero3D AI",
+  "description": "Turn One Drone Flight Into a Digital 3D World. AI-powered single-pass drone video to georeferenced 3D model reconstruction platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
